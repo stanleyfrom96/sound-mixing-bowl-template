@@ -10,7 +10,7 @@ var networkdot_stroke_color = 'white';
 // var networkdot_color = '#51D0FD';
 // var networkdot_stroke_color = '#FFE40A';
 var mixer_bg = true;
-var mixer_bg_color = new Color(1, 0.95, 0.71, 0.5); // buttermilk, opacity 50%
+var mixer_bg_color = new Color(1, 0.95, 0.71, 0); // buttermilk, opacity 50%
 
 $(document).ready(function() {
 
